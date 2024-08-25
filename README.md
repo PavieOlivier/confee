@@ -1,2 +1,1 @@
-# confee
-Conference call app similar to google meet and microsoft team
+Will update this later with the appropriate data
